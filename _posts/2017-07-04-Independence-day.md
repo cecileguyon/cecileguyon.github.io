@@ -2,8 +2,8 @@
 layout: post
 title: Blogging Like a Hacker
 tags:
-- python
-- data
+  - python
+  - data
 ---
 
 Sooo after spending half the day looking for an effective note taking app, I decided that I might just write blog post here instead.
